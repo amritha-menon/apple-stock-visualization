@@ -1,13 +1,11 @@
 module.exports = (req, res) => {
     // Add CORS headers
-    res.setHeader('Access-Control-Allow-Origin', '*'); // Allow all origins
-    res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, OPTIONS'); // Allow specific methods
-    res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Authorization'); // Allow specific headers
+    res.setHeader('Access-Control-Allow-Origin', '*'); 
   
     // Your API logic
     res.status(200).json({
       analyst_estimates: {
-        Citibank: 6.5,
+        "Citibank": 6.5,
         "Goldman Sachs": 7.9,
         "Morgan Stanley": 9.87,
       },
