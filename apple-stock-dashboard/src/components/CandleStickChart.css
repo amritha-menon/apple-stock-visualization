@@ -27,20 +27,20 @@
     align-items: center;
   }
   .chart-container {
-    overflow-x: auto; /* Make chart scrollable horizontally */
-    overflow-y: hidden; /* Disable vertical scrolling */
+    overflow-x: auto; 
+    overflow-y: hidden; 
   }
   
   .buttons-col .ant-btn {
     margin-bottom: 8px;
-    background-color: #073C71; /* Slightly lighter color for buttons */
-    border-color: #073C71; /* Match button border to button background */
-    color: #fff; /* White text color */
+    background-color: #073C71; 
+    border-color: #073C71; 
+    color: #fff; 
     font-family: "Oswald", sans-serif;
   }
   
   .buttons-col .ant-btn:hover .ant-btn:click {
-    background-color: #073C71; /* Lighter color on hover */
-    border-color: #777; /* Match button border to hover background */
+    background-color: #073C71; 
+    border-color: #777; 
   }
   

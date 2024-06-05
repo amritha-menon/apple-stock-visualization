@@ -1,6 +1,6 @@
 import React from 'react';
 import { Table, Card } from 'antd';
-import './AnalystEstimates.css'; // Import the CSS file for additional styling if needed
+import './AnalystEstimates.css'; 
 
 const columns = [
   {

@@ -2,53 +2,53 @@
     margin-bottom: 24px;
     text-align: left;
     width: 100%;
-    background-color: #011529; /* Same color as header */
-    color: #fff; /* White text color */
-    border-radius: 0; /* Remove rounded edges */
+    background-color: #011529;
+    color: #fff; 
+    border-radius: 0; 
     font-family: "Oswald", sans-serif;
   }
   
   .news-articles-card .ant-card-head {
-    background-color: #011529; /* Same color as header */
-    color: #fff; /* White text color */
-    border-radius: 0; /* Remove rounded edges */
+    background-color: #011529; 
+    color: #fff; 
+    border-radius: 0; 
     text-align: left;
     font-family: "Oswald", sans-serif;
   }
   
   .news-articles-card .ant-card-body {
-    background-color: #011529; /* Same color as header */
-    color: #fff; /* White text color */
-    border-radius: 0; /* Remove rounded edges */
+    background-color: #011529; 
+    color: #fff;
+    border-radius: 0;
     font-family: "Oswald", sans-serif;
   }
   
   .news-articles-card .ant-list-item-meta-title {
     font-weight: bold;
-    color: #fff; /* White text color */
+    color: #fff; 
     font-family: "Oswald", sans-serif;
   }
   
   .news-article-item {
     text-align: left;
-    color: #fff; /* White text color */
+    color: #fff; 
     font-family: "Oswald", sans-serif;
   }
   
   .news-article-item .ant-list-item-meta-title {
-    color: #fff; /* White text color */
+    color: #fff; 
     font-family: "Oswald", sans-serif;
   }
   
   .news-article-item div {
-    color: #fff; /* White text color */
+    color: #fff; 
     font-family: "Oswald", sans-serif;
   }
   
   .card-title {
     text-align: center;
     width: 100%;
-    color: #fff; /* White text color */
+    color: #fff; 
     font-family: "Oswald", sans-serif;
   }
   
