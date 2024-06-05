@@ -15,7 +15,7 @@ const App = () => {
   const [timeRange, setTimeRange] = useState('1y');
 
   useEffect(() => {
-    axios.get('https://apple-stock-dashboard-ekv26ijkl-amritha-menons-projects.vercel.app/api/financials')
+    axios.get('https://apple-stock-dashboard-amritha-menon-amritha-menons-projects.vercel.app/api/financials')
       .then(response => {
         const data = response.data;
 
