@@ -1,0 +1,74 @@
+.financial-ratios-card {
+    margin-bottom: 24px;
+    text-align: left;
+    width: 100%;
+    background-color: #011529; /* Same color as header */
+    color: #fff;
+    border-radius: 0;
+    font-family: "Oswald", sans-serif;
+  }
+  .ant-card-head-title {
+    color: wheat;
+    font-weight: bolder;
+    font-size: 26px;
+    font-family: "Oswald", sans-serif;
+  }
+  .candlestick-chart-card .ant-card-head {
+    background-color: #011529; /* Same color as header */
+    color: #fff; /* White text color */
+    text-align: left;
+    font-family: "Oswald", sans-serif;
+  }
+
+  .candlestick-chart-card .ant-card-body {
+    background-color: #011529; /* Same color as header */
+    color: #fff; /* White text color */
+    font-family: "Oswald", sans-serif;
+  }
+  
+  .financial-ratios-card .ant-card-head {
+    border-bottom: none; /* Remove the border under the title */
+  }
+  
+  
+  .ratios-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .ratio-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 16px;
+  }
+  
+  .first-row {
+    width: 20%;
+  }
+  
+  .second-row {
+    width: 25%;
+  }
+  
+  .ratio-avatar {
+    background-color: #073C71;
+    font-family: "Oswald", sans-serif;
+    color: #fff;
+    margin-bottom: 8px;
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    white-space: pre-wrap;
+  }
+  
+  .ratio-value {
+    font-size: 1.2em;
+    font-weight: bold;
+    font-family: "Oswald", sans-serif;
+    color: wheat;
+  }
+  

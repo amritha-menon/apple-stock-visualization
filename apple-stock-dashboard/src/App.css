@@ -1,0 +1,58 @@
+/* Import Ant Design styles */
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
+.application {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400; /* Default weight, you can change as needed */
+  font-style: normal;
+}
+
+.oswald-bold {
+  font-weight: 700;
+}
+
+.oswald-light {
+  font-weight: 200;
+}
+
+.oswald-medium {
+  font-weight: 500;
+}
+
+.oswald-regular {
+  font-weight: 400;
+}
+
+.oswald-semibold {
+  font-weight: 600;
+}
+
+.oswald-extralight {
+  font-weight: 300;
+}
+.layout {
+  min-height: 100vh;
+}
+
+.site-layout-content {
+  padding: 24px;
+  background: #fff;
+}
+
+.time-range {
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+.time-range .ant-btn {
+  margin: 0 8px;
+}
+
+.candlestick-chart {
+  margin-bottom: 24px;
+}
+
+.financial-ratios {
+  margin-bottom: 24px;
+}

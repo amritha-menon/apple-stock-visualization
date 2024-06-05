@@ -1,0 +1,29 @@
+.analyst-estimates-card {
+  margin-bottom: 24px;
+  text-align: left;
+  width: 100%;
+  background-color: #011529; /* New background color */
+  color: #fff; /* Font color */
+  border-radius: 0; /* Remove rounded edges */
+  font-family: "Oswald", sans-serif;
+}
+
+.analyst-estimates-table .ant-table-thead > tr > th {
+  background-color: #011529; /* New background color */
+  color: #fff; /* Font color */
+  font-family: "Oswald", sans-serif;
+}
+
+.analyst-estimates-table .ant-table-tbody > tr > td {
+  background-color: #011529; /* New background color */
+  color: #fff; /* Font color */
+  font-family: "Oswald", sans-serif;
+  transition: background-color 0.3s ease;
+  color: wheat;
+}
+
+.analyst-estimates-card .ant-card-head {
+border-bottom: none; /* Remove the border under the title */
+}
+
+

@@ -1,0 +1,46 @@
+.candlestick-chart-card {
+    margin-bottom: 24px;
+    text-align: center;
+    width: 100%;
+    border-radius: 0;
+    background-color: #011529; /* Same color as header */
+    color: #fff; /* White text color */
+    font-family: "Oswald", sans-serif;
+  }
+  
+  .candlestick-chart-card .ant-card-head {
+    background-color: #011529; /* Same color as header */
+    color: #fff; /* White text color */
+    font-family: "Oswald", sans-serif;
+  }
+  
+  .candlestick-chart-card .ant-card-body {
+    background-color: #011529; /* Same color as header */
+    color: #fff; /* White text color */
+    font-family: "Oswald", sans-serif;
+  }
+  
+  .buttons-col {
+    padding-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .chart-container {
+    overflow-x: auto; /* Make chart scrollable horizontally */
+    overflow-y: hidden; /* Disable vertical scrolling */
+  }
+  
+  .buttons-col .ant-btn {
+    margin-bottom: 8px;
+    background-color: #073C71; /* Slightly lighter color for buttons */
+    border-color: #073C71; /* Match button border to button background */
+    color: #fff; /* White text color */
+    font-family: "Oswald", sans-serif;
+  }
+  
+  .buttons-col .ant-btn:hover .ant-btn:click {
+    background-color: #073C71; /* Lighter color on hover */
+    border-color: #777; /* Match button border to hover background */
+  }
+  

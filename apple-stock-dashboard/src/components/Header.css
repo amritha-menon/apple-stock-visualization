@@ -1,0 +1,21 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: "Oswald", sans-serif;
+  }
+  
+  .logo {
+    font-size: 1.5em;
+    font-weight: light;
+    color: #fff;
+    font-family: "Oswald", sans-serif;
+  }
+  
+  .menu {
+    flex-grow: 1;
+    display: flex;
+    justify-content: flex-end;
+    font-family: "Oswald", sans-serif;
+  }
+  
