@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/apple-stock-dashboard/static/css/main.f7c5455e.css",
+    "main.js": "/apple-stock-dashboard/static/js/main.60eb855c.js",
+    "static/js/453.a7708b26.chunk.js": "/apple-stock-dashboard/static/js/453.a7708b26.chunk.js",
+    "index.html": "/apple-stock-dashboard/index.html",
+    "main.f7c5455e.css.map": "/apple-stock-dashboard/static/css/main.f7c5455e.css.map",
+    "main.60eb855c.js.map": "/apple-stock-dashboard/static/js/main.60eb855c.js.map",
+    "453.a7708b26.chunk.js.map": "/apple-stock-dashboard/static/js/453.a7708b26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7c5455e.css",
+    "static/js/main.60eb855c.js"
+  ]
+}
