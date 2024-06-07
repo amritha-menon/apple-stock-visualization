@@ -1,8 +1,7 @@
 module.exports = (req, res) => {
-    // Add CORS headers
     res.setHeader('Access-Control-Allow-Origin', '*'); 
   
-    // Your API logic
+
     res.status(200).json({
       analyst_estimates: {
         "Citibank": 6.5,
